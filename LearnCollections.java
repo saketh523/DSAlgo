@@ -7,7 +7,7 @@ public class LearnCollections {
         ArrayList<Integer> al1 = new ArrayList<>(20);
         ArrayList<Integer> al2 = new ArrayList<>(List.of(50,60,70,80,90));
 
-        // methods used in ArrayList
+        // methods used in ArrayList 
         al1.add(10);
         System.out.println(al1);
 
