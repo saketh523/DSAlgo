@@ -1,5 +1,3 @@
-package com.company.randomcode;
-
 import java.util.Arrays;
 
 public class LearnArraysClass {
